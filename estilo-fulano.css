@@ -2,3 +2,6 @@ h1 {
     font-size: 20px;
     text-decoration: underline;
 }
+strong {
+    font-weight: bold;
+}
